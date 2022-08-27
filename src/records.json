@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "title": "Maple",
+        "content": "Mushmom",
+        "skill": [
+            {
+                "name": "Jumping Attack"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Magician",
+        "content": "bishop",
+        "skill": [{
+            "name": "Magic Claw!"
+        }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Paladin",
+        "content": "paladin never dies",
+        "skill": [{
+            "name": "Shield & Reflection(?)"
+        }]
+    }
+]
